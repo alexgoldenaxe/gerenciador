@@ -12,9 +12,9 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 //@WebFilter("/entrada")
-public class AltorizacaoFilter implements Filter {
+public class AutorizacaoFilter implements Filter {
 
-    public AltorizacaoFilter() {
+    public AutorizacaoFilter() {
 
     }
 
